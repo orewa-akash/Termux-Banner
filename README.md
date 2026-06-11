@@ -1,7 +1,15 @@
-# AHASANUL HAQUE AKASH
+# TERMUX BANNER TOOL
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2ECC71&width=500&vCenter=true&lines=Welcome+to+My+Termux+Banner+Tool..._🌐" alt="Terminal Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FF7F&vCenter=true&width=500&lines=Welcome+to+My+Termux+Banner+Tool..._🌐;Termux+Developer;Linux+Enthusiast;Open+Source+Learner" alt="Terminal Typing Effect" />
+</p>
+
+---
+
+## 📷 Profile Picture
+
+<p align="center">
+  <img src="https://i.ibb.co.com/jvjXjQVK/image.jpg" alt="Developer Image" width="180" height="180" style="border-radius: 50%; border: 3px solid #00FF7F; object-fit: cover;" />
 </p>
 
 ---
@@ -19,10 +27,4 @@
 
 ## 🌐 Connect With Me
 
-* **Facebook:** [$\color{#00FF7F}{\textsf{Ahsanul Haque Akash}}$](https://www.facebook.com/profile.php?id=100090690904199)
-
----
-
-## 🖼️ ছবি (Screenshot) যুক্ত করার নিয়ম:
-১. গিটহাবে `README.md` ফাইলটি এডিট (Edit) মুডে ওপেন করুন।
-২. আপনার টুলের একটি স্ক্রিনশট টেনে এনে (Drag & Drop) ঠিক এই লাইনের নিচে ছেড়ে দিন। গিটহাব অটোমেটিক ছবির কোড জেনারেট করে বসিয়ে দেবে।
+* **Facebook:** [Ahsanul Haque Akash](https://www.facebook.com/profile.php?id=100090690904199)
