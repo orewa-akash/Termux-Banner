@@ -8,17 +8,21 @@
 
 ## 👨‍💻 Developer Info
 
-* **Name:** <span style="color:#00FF7F; font-weight:bold;">AHASANUL HAQUE AKASH</span>
-* **Age:** <span style="color:#00FF7F; font-weight:bold;">20</span>
-* **Hobby:** <span style="color:#00FF7F; font-weight:bold;">Programming 💻</span>
-* **Profession:** <span style="color:#00FF7F; font-weight:bold;">Student</span>
-* **Hometown:** <span style="color:#00FF7F; font-weight:bold;">Rangpur</span>
-* **Current Location:** <span style="color:#00FF7F; font-weight:bold;">Barishal</span>
+* **Name:** $\color{#00FF7F}{\textsf{AHASANUL HAQUE AKASH}}$
+* **Age:** $\color{#00FF7F}{\textsf{20}}$
+* **Hobby:** $\color{#00FF7F}{\textsf{Programming 💻}}$
+* **Profession:** $\color{#00FF7F}{\textsf{Student}}$
+* **Hometown:** $\color{#00FF7F}{\textsf{Rangpur}}$
+* **Current Location:** $\color{#00FF7F}{\textsf{Barishal}}$
 
 ---
 
 ## 🌐 Connect With Me
 
-* **Facebook:** [<span style="color:#00FF7F; font-weight:bold;">Ahsanul Haque Akash</span>](https://www.facebook.com/profile.php?id=100090690904199)
+* **Facebook:** [$\color{#00FF7F}{\textsf{Ahsanul Haque Akash}}$](https://www.facebook.com/profile.php?id=100090690904199)
 
 ---
+
+## 🖼️ ছবি (Screenshot) যুক্ত করার নিয়ম:
+১. গিটহাবে `README.md` ফাইলটি এডিট (Edit) মুডে ওপেন করুন।
+২. আপনার টুলের একটি স্ক্রিনশট টেনে এনে (Drag & Drop) ঠিক এই লাইনের নিচে ছেড়ে দিন। গিটহাব অটোমেটিক ছবির কোড জেনারেট করে বসিয়ে দেবে।
